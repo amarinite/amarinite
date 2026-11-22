@@ -11,7 +11,7 @@
   <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,py,c,cpp,typescript,javascript,react,nextjs,nodejs,mysql,postgresql,prisma,docker,linux,git,bash,vim" />
 </p>
 
-<h2> 🪴 &nbsp;Things I've Been Growing (take a look!)</h2>
+<h2> 🪴 &nbsp;Things I've Been Growing</h2>
 <table>
   <tr>
     <td width="50%" valign="top">
